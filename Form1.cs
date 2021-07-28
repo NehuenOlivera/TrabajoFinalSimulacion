@@ -112,7 +112,7 @@ namespace EntregaFinalSIM
                 if (filaHasta - filaDesde > 500) throw new ArgumentException("No se pueden mostrar mas de 500 filas");
 
                 ////////////////////////////////////////////////////////////////////////////////////
-                int variable;
+                
                 gridSimulaciones.Rows.Clear();
 
                 gridArticulosCredito.Rows.Clear();
